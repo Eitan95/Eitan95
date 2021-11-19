@@ -1,4 +1,4 @@
-Hi My name is Eitan. I am really appasionate about cloud services and Unix, I got a bachelors degree in Automation, that means I spare my time working with machines to make 
+Hi My name is Eitan. I am really appasionate about cloud services IaaS/PaaS/SaaS and Unix, I got a bachelors degree in Automation, that means I spare my time working with machines to make 
 life easier in a professional and personal way (Domotics/Mechatronics/HDMI)
 
 I studied in Puebla, a city near Mexico city where I achieved the knowledge to implement mechanics, visual programming and electronics in a particular device.
