@@ -6,7 +6,7 @@ I studied in Puebla, a city near Mexico city where I achieved the knowledge to i
 
 Now I am study hardly in Mérida, at ITK where I am learning important skills to reach success such as soft skills and businness skills.
 
-Recently I got my first badge in Oracle Cloud Foundations, I hope to take advantages from this path to become a successful cloud engineer. And as I mentioned 
+2x Certified in Oracle Cloud Infrastructure, I hope to take advantages from this path to become a successful cloud engineer. And as I mentioned 
 I involve automation in Cloud using terraform files :) 
 
 
