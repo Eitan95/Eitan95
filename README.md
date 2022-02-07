@@ -1,17 +1,21 @@
-Hi My name is Eitan. I am really appasionate about cloud services IaaS/PaaS/SaaS and Unix, I got a bachelors degree in Automation, that means I spare my time working with machines to make 
-life easier in a professional and personal way (Domotics/Mechatronics/HDMI)
+I'm Eitan Raúl from Mexico, my professional carrer path includes Automation Bachelors degree, Cloud as services certifications (1 Azure/5 Oracle Cloud).
 
-I studied in Puebla, a city near Mexico city where I achieved the knowledge to implement mechanics, visual programming and electronics in a particular device.
+Ability to perform activities which require deep insight such as electronics & programming.
 
+Select * from Oracle_SQL;
 
-Now I am study hardly in Mérida, at ITK where I am learning important skills to reach success such as soft skills and businness skills.
+#include<iostream>
+ int main(){
+  cout<<"C++";
+  get return 0;
+  }
+  
+variable "terraform"{ 
+  default = "HCL"
+  }
 
-2x Certified in Oracle Cloud Infrastructure, I hope to take advantages from this path to become a successful cloud engineer. And as I mentioned 
-I involve automation in Cloud using terraform files :) 
-
-
-Please feel free to take a look in my repository :) I will make more creative stuffs on the way
-
+./linux.bin
+  
 <!---
 Eitan95/Eitan95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
