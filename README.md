@@ -1,22 +1,5 @@
-I'm Eitan Raúl from Mexico, my professional carrer path includes Automation Bachelors degree, Cloud as services certifications (1 Azure/5 Oracle Cloud).
+I'm Eitan Chávez, from Mexico. a graduated student from automation engineering and currently appying to work as a cloud engineer
 
-Ability to perform activities which require deep insight such as electronics & programming.
-
-Select * from Oracle_SQL;
-
-#include<iostream>
- int main(){
-  cout<<"C++";
-  get return 0;
-  }
-  
-variable "terraform"{ 
-  default = "HCL"
-  }
-
-./linux.bin
-  
-<!---
-Eitan95/Eitan95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionated about new technologies, terraform, Oracle SQL, OCI and Azure as cloud providers
+and learning about GNU/Linux and Javascript I hope you find interesting my repo because here I will commit new projects
+related with these topics.
